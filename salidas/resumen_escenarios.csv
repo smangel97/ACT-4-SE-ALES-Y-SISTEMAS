@@ -1,0 +1,5 @@
+Escenario,Ganancia,Condición,Efecto observado
+AM ideal,1.0,sin ruido agregado,sin distorsión
+Ruido blanco,1.0,SNR objetivo 10.0 dB,sin distorsión
+Atenuación,0.5,sin ruido agregado,forma conservada
+Recorte,1.0,sin ruido agregado,límite ±0.65
